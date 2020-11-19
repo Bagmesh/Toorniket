@@ -1,0 +1,10 @@
+C:\Users\mesh\source\repos\Турникет\Турникет\bin\Debug\Турникет.exe.config
+C:\Users\mesh\source\repos\Турникет\Турникет\bin\Debug\Турникет.exe
+C:\Users\mesh\source\repos\Турникет\Турникет\bin\Debug\Турникет.pdb
+C:\Users\mesh\source\repos\Турникет\Турникет\obj\Debug\Турникет.csprojAssemblyReference.cache
+C:\Users\mesh\source\repos\Турникет\Турникет\obj\Debug\Турникет.Form1.resources
+C:\Users\mesh\source\repos\Турникет\Турникет\obj\Debug\Турникет.Properties.Resources.resources
+C:\Users\mesh\source\repos\Турникет\Турникет\obj\Debug\Турникет.csproj.GenerateResource.cache
+C:\Users\mesh\source\repos\Турникет\Турникет\obj\Debug\Турникет.csproj.CoreCompileInputs.cache
+C:\Users\mesh\source\repos\Турникет\Турникет\obj\Debug\Турникет.exe
+C:\Users\mesh\source\repos\Турникет\Турникет\obj\Debug\Турникет.pdb
